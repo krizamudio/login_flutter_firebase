@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "15287572084",
+    "project_id": "prueba-0109",
+    "storage_bucket": "prueba-0109.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15287572084:android:5e3ffb9110555f58e6a321",
+        "android_client_info": {
+          "package_name": "com.utvm.login"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15287572084-m04hmm6qg2qk9of6j80l0a0h6n52ln5f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.utvm.login",
+            "certificate_hash": "2da470e9f1a1412428681e1a58cd48e52c240cfb"
+          }
+        },
+        {
+          "client_id": "15287572084-cv8cfehkvkdietpmrf4um0n693rjuf9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvpbAh2ew_AQIoolJFrz5sJajpKrQfy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15287572084-cv8cfehkvkdietpmrf4um0n693rjuf9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15287572084-gsd039je6r2msjmdnsq50fhcuudlo3tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utvm.login"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:15287572084:android:3fa2bdff4be23c11e6a321",
+        "android_client_info": {
+          "package_name": "com.utvm.prueba"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "15287572084-cv8cfehkvkdietpmrf4um0n693rjuf9u.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBEvpbAh2ew_AQIoolJFrz5sJajpKrQfy0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "15287572084-cv8cfehkvkdietpmrf4um0n693rjuf9u.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "15287572084-gsd039je6r2msjmdnsq50fhcuudlo3tt.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.utvm.login"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
